@@ -1,0 +1,14 @@
+media/generated/
+.tools/
+*.tar.gz
+*.log
+qa/
+__pycache__/
+
+# Local source references and hosting metadata
+.openai/
+media/*sheet.jpg
+media/photo-inventory.json
+ITERATION-01.md
+preview-desktop.jpg
+

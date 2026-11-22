@@ -1,0 +1,67 @@
+[
+  {
+    "id": "media-event-1",
+    "original": "20260612_194844.mp4",
+    "video": "assets/media-event-1.mp4",
+    "poster": "assets/media-event-1.jpg",
+    "bytes": 1554249,
+    "description": "Танцующие гости и столы под навесом.",
+    "width": 406,
+    "height": 720,
+    "durationSeconds": 15.33,
+    "hasAudio": true,
+    "verifiedFullDecode": true
+  },
+  {
+    "id": "media-event-2",
+    "original": "20260809_203714.mp4",
+    "video": "assets/media-event-2.mp4",
+    "poster": "assets/media-event-2.jpg",
+    "bytes": 876784,
+    "description": "DJ-оборудование на переднем плане, танцующие гости в помещении.",
+    "width": 406,
+    "height": 720,
+    "durationSeconds": 8.19,
+    "hasAudio": true,
+    "verifiedFullDecode": true
+  },
+  {
+    "id": "media-club-1",
+    "original": "ровесник-clip14.mp4",
+    "video": "assets/media-club-1.mp4",
+    "poster": "assets/media-club-1.jpg",
+    "bytes": 1390154,
+    "description": "Танцпол с синим сценическим светом.",
+    "width": 406,
+    "height": 720,
+    "durationSeconds": 16.0,
+    "hasAudio": true,
+    "verifiedFullDecode": true
+  },
+  {
+    "id": "media-club-2",
+    "original": "МАНКИС.mp4",
+    "video": "assets/media-club-2.mp4",
+    "poster": "assets/media-club-2.jpg",
+    "bytes": 520292,
+    "description": "Диджеи за оборудованием в фиолетовом свете. Исходник без звука.",
+    "width": 540,
+    "height": 720,
+    "durationSeconds": 4.63,
+    "hasAudio": false,
+    "verifiedFullDecode": true
+  },
+  {
+    "id": "media-club-3",
+    "original": "ровесник-clip17.mp4",
+    "video": "assets/media-club-3.mp4",
+    "poster": "assets/media-club-3.jpg",
+    "bytes": 1230441,
+    "description": "DJ-оборудование и танцпол в синем и фиолетовом свете.",
+    "width": 406,
+    "height": 720,
+    "durationSeconds": 16.0,
+    "hasAudio": true,
+    "verifiedFullDecode": true
+  }
+]
